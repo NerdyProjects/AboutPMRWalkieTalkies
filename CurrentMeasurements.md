@@ -43,6 +43,7 @@ This leads to a "standard day" of:
 Filling in the values from the table above leads to following usage times for the devices:
 
 | Device | Capacity usage | Available capacity | Runtime | Notes |
+|--------|---------------|--------------------|---------|--------|
 | Alan Midland G5XT | 410 mAh | 800 mAh | 1.9 days | bat low beep at 3.2 V |
 | Alan Midland G7 | 675 mAh | 2300 mAh | 3.4 days | reduces output power at approx. 4.6 V |
 | Alan Midland M99Plus | 600 mAh | 800 mAh | 1.3 days | |
